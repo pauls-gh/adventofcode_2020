@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "adventofcode_2020", "adventofcode_2020\adventofcode_2020.vcxproj", "{19D6F7C7-B00F-46B4-88D9-B08E6F2243F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D6F7C7-B00F-46B4-88D9-B08E6F2243F1}.Debug|x64.ActiveCfg = Debug|x64
+		{19D6F7C7-B00F-46B4-88D9-B08E6F2243F1}.Debug|x64.Build.0 = Debug|x64
+		{19D6F7C7-B00F-46B4-88D9-B08E6F2243F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{19D6F7C7-B00F-46B4-88D9-B08E6F2243F1}.Debug|x86.Build.0 = Debug|Win32
+		{19D6F7C7-B00F-46B4-88D9-B08E6F2243F1}.Release|x64.ActiveCfg = Release|x64
+		{19D6F7C7-B00F-46B4-88D9-B08E6F2243F1}.Release|x64.Build.0 = Release|x64
+		{19D6F7C7-B00F-46B4-88D9-B08E6F2243F1}.Release|x86.ActiveCfg = Release|Win32
+		{19D6F7C7-B00F-46B4-88D9-B08E6F2243F1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AA80136-7756-4557-BB22-84C90401FB56}
+	EndGlobalSection
+EndGlobal
