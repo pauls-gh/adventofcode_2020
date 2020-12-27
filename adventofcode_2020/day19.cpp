@@ -11,7 +11,7 @@ using namespace std;
 struct Rule {
 	bool bTerminal = false;
 	vector<vector<int>> ruleArrays;
-	char terminalChar;
+	char terminalChar = '0';
 };
 unordered_map<int, Rule> ruleMap;
 
