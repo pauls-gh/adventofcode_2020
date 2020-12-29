@@ -25,6 +25,7 @@ void day19();
 void day20();
 void day21();
 void day22();
+void day23();
 
 
 int main()
@@ -50,7 +51,8 @@ int main()
 	//day19();
 	//day20();
 	//day21();
-	day22();
+	//day22();
+	day23();
 
 }
 
